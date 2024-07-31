@@ -5,6 +5,8 @@
 - 📫 How to reach me t.me/wenaco_gs
 - 😄 Pronouns: He/Him
 
+- <h1>islomov shahzod</h1>
+
 <!---
 shahzodislomov/shahzodislomov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
