@@ -8,9 +8,6 @@
 💡 Advocate for **#learninginpublic**, constantly pushing boundaries to improve and grow.<br/>
 
 ---
-![shahzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahzodislomov&show_icons=true&theme=transparent)
-
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/ShahzodIslomov) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wenaco33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wenaco_gs) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/wenaco_gs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wenaco33) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/wenaco) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wenaco_san) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Shahzod-Islomov) 
