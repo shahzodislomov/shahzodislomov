@@ -30,16 +30,6 @@ Building useful things and learning in public.
 </p>
 
 <p><code>140 contributions</code> · <code>1 day streak</code></p>
-
-## Infrastructure shipped
-
-- **[python-trello](https://github.com/shahzodislomov/python-trello)** — Featured public work · ⭐ 2
-- **[movies-library](https://github.com/shahzodislomov/movies-library)** — Featured public work · ⭐ 2
-- **[trello-project](https://github.com/shahzodislomov/trello-project)** — Featured public work · ⭐ 2
-- **[create-Usr](https://github.com/shahzodislomov/create-Usr)** — Featured public work · ⭐ 2
-- **[store-clone-next](https://github.com/shahzodislomov/store-clone-next)** — Featured public work · ⭐ 2
-- **[wenaco-todo-list](https://github.com/shahzodislomov/wenaco-todo-list)** — Featured public work · ⭐ 2
-
 ## Platform toolkit
 
 <p><code>shahzodislomov@github:~$ toolbox --list</code></p>
